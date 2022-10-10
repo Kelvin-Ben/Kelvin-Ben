@@ -1,4 +1,4 @@
-  ## Hi, I'm Kelvin Ben 👋
+  ## Hi, I'm Kelvin Benjamin 👋
   ### ABOUT ME:
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning JavaScript
