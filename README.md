@@ -6,9 +6,9 @@ Full-stack Developer
 Experienced Full-Stack Developer proficient in JavaScript, React, Ruby on Rails, and PostgreSQL. Passionate about creating clean, efficient, and scalable web applications that solve real-world problems.
 
 * 🌍  How to reach me [LinkedIn](https://www.linkedin.com/in/kelvinben/)
-* 🧠  I'm currently building JavaScript, React and Ruby on Rails projects and contributing to open source projects
+* 🧠  I'm currently working on projects in JavaScript, React, and Ruby on Rails, as well as contributing to open source projects.
 * 🤝  I'm open to collaborating on JavaScript, React and Ruby on Rails projects
-* ⚡  I'm secretly a football fan, but don't tell anyone
+* ⚡  I secretly enjoy football, but no one knows.
 
 <a href="https://www.github.com/Kelvin-Ben" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kelvin-Ben?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
