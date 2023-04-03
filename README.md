@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack Developer
 --------------------
-<!-- As a full-stack developer, I specialize in creating dynamic and responsive web applications that are both functional and visually appealing. With extensive experience in languages such as JavaScript and Ruby, I am proficient in utilizing a range of frameworks and libraries such as React and Ruby on Rails to create innovative and scalable solutions. I have a keen eye for design and strive to create intuitive user experiences that enhance engagement and drive conversions. With a passion for staying up-to-date on emerging trends and technologies, I am dedicated to delivering high-quality, efficient, and scalable solutions that meet the needs of clients and end-users alike. -->
+Experienced Full-Stack Developer proficient in JavaScript, React, Ruby on Rails, and PostgreSQL. Passionate about creating clean, efficient, and scalable web applications that solve real-world problems.
 
 * 🌍  How to reach me [LinkedIn](https://www.linkedin.com/in/kelvinben/)
 * 🧠  I'm currently building JavaScript, React and Ruby on Rails projects and contributing to open source projects
