@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack Developer
 --------------------
-Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and PostgreSQL. I'm obsessed with developing clean, efficient, and scalable web applications that solve real-world problems.rld problems.
+Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and PostgreSQL. I'm obsessed with developing clean, efficient, and scalable web applications that solve real-world problems.
 
 * 🌍  How to reach me [LinkedIn](https://www.linkedin.com/in/kelvinben/)
 * 🧠  I'm currently working on projects in JavaScript, React, and Ruby on Rails, as well as contributing to open source projects.
