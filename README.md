@@ -1,7 +1,7 @@
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)am Benjamin
 =======================================================================================================================================
 
-FrontEnd Engineer
+Front End Developer
 --------------------
 Frontend Developer with experience in JavaScript, React, NextJs, and TypeScript. I'm obsessed with developing clean, efficient, and scalable web applications that solve real-world problems.
 
